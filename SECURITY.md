@@ -5,8 +5,8 @@ Il y a encore des mises à jours de sécurité sur ces versions suivantes.
 
 | Version | Mises à jours de sécurité      |
 | ------- | ------------------ |
-| 1.0.0   | :x: |
-| 1.0.1   | :x: |
+| 1.0.0   | :x: Fin des mises à jours le 28 septembre |
+| 1.0.1   | :x: Fin des mises à jours le 14 octobre |
 | 1.0.2 et supérieur   | :x: Fin des mises à jours le 25 octobre |
 | 2.0.0  | 🟧 Fin des mises à jours le 30 octobre               |
 | 2.0.1  | ✅                |
