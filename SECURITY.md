@@ -11,8 +11,8 @@ Il y a encore des mises à jours de sécurité sur ces versions suivantes.
 | 1.0.2 et supérieur   | :x: Obsolète |
 | 2.0.0  | :x: Obsolète |
 | 2.0.1  | :x: Obsolète |
-| 2.0.2  | :x: Sous bas changement |
-| 2.1.0  | ✅ Sous changement constant |
+| 2.0.2  | :x: Obsolète |
+| 2.1.0  | :x: Sous bas changement |
 | 3.0.0 et ultérieur | ✅ Sous changement constant
 
 ## Signalement d'une faille (de sécurité)
