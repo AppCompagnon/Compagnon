@@ -8,12 +8,13 @@ Il y a encore des mises à jours de sécurité sur ces versions suivantes.
 | ------- | ------------------ |
 | 1.0.0   | :x: Obsolète |
 | 1.0.1   | :x: Obsolète |
-| 1.0.2 et supérieur   | :x: Obsolète |
-| 2.0.0  | :x: Obsolète |
-| 2.0.1  | :x: Obsolète |
-| 2.0.2  | :x: Obsolète |
-| 2.1.0  | :x: Sous bas changement |
-| 3.0.0 et ultérieur | ✅ Sous changement constant
+| 1.0.2 et supérieur   | 🟥 Sous très bas changement |
+| 2.0.0  | 🟨 Sous bas changement |
+| 2.0.1  | 🟨 Sous bas changement |
+| 2.0.2  | 🟨 Sous bas changement |
+| 2.1.0  | 🟨 Sous bas changement |
+| 3.0.0 et supérieur | ✅ Sous haut changement |
+| 4.0.0 | ✅ Sous haut changement |
 
 ## Signalement d'une faille (de sécurité)
 Pour signaler une faille majeure de sécurité, veuillez vous reporter [ici](https://github.com/AppCompagnon/Compagnon/wiki/Le-d%C3%A9but-du-projet#partage-dinformation-%C3%A0-des-soci%C3%A9t%C3%A9s-tiers).
