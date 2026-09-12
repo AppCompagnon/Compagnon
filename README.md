@@ -1,3 +1,4 @@
+<img width="1000" height="500" alt="Version 5 0 0 - Compagnon Bannièree" src="https://github.com/user-attachments/assets/79df3605-6492-48ec-9c28-f130232fb8f9" />
 # Compagnon
 Ton allié scolaire open-source pour t'aider tout le temps !
 
